@@ -1,0 +1,24 @@
+{
+  "name": "bis-api",
+  "version": "0.0.1",
+  "description": "Bis api",
+  "main": "run.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^0.8.5",
+    "bluebird": "^3.3.5",
+    "body-parser": "^1.15.0",
+    "cors": "^2.7.1",
+    "express": "^4.13.4",
+    "express-validator": "^2.20.3",
+    "guid": "0.0.12",
+    "mailin-api-node-js": "^1.0.0",
+    "mongoose": "^4.4.12",
+    "nodemailer": "0.7.1",
+    "nodemailer-smtp-transport": "^2.4.2"
+  }
+}
